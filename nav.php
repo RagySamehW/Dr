@@ -8,7 +8,7 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-    <!-- Hero -->
+    <!-- Hero --> 
     <section class="et-hero-tabs">
         <h1>STICKY SLIDER NAV</h1>
         <h3>Sliding content with sticky tab nav</h3>
